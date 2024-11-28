@@ -1,6 +1,6 @@
 ## About me
 
-- 🇯🇵👴 I’m Takashi Matsui, just 60 years old
+- 🇯🇵👴 I’m Takashi Matsui
 - 🐾 Started learning SwiftUI/xcode at age 60 to make an app for my beloved Maltese “Nico” passed away on my 60th birthday.
 - 🙏 SwiftUI/Xcode mentors wanted! 求む先生
 
